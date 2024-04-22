@@ -1,0 +1,104 @@
+<html>
+
+<head>
+    <title> RESUME </title>
+</head>
+
+<body bgcolor="E6E6FA">
+    <table align="center," width="100%">
+        <tbody>
+            <tr>
+                <th bgcolor="" align="left," width="45%">
+                    <center>
+                        <img src="WhatsApp.jpg" ,="" height="200," width="200," border="1/">
+
+                        <h1>
+                            <center> <u> RESUME </u> </center>
+                        </h1>
+                        <h2> Khadija Ogna </h2>
+                        <h3> 9001053467 </h3>
+                        <h3> khadija262004@gmail.com </h3>
+                        <hr>
+                        <h2> <u> OBJECTIVE </u> </h2>
+                        <p> A dedicated and detail-oriented individual looking to work in an organization that can
+                            provide a variety of opportunities that allow me to expand my skills and knowledge while
+                            working towards achieving the organizational goals. </p>
+                        <hr>
+                        <h2> <u> EDUCATIONAL QUALIFICATIONS </u> </h2>
+                        <table border="5," width="1000," height="200">
+                            <tbody>
+                                <tr>
+                                    <th> Class </th>
+                                    <th> School/University name </th>
+                                    <th> Subject </th>
+                                    <th> Percentage </th>
+                                    <th> Year </th>
+                                </tr>
+                                <tr>
+                                    <th> 10th </th>
+                                    <th> Central Academy, Sardarpura, Udaipur </th>
+                                    <th> All</th>
+                                    <th> 72% </th>
+                                    <th> 2020</th>
+                                </tr>
+                                <tr>
+                                    <th> 12th </th>
+                                    <th> Central Academy, Sardarpura, Udaipur </th>
+                                    <th> Commerce + maths</th>
+                                    <th> 62% </th>
+                                    <th> 2022 </th>
+                                </tr>
+                                <tr>
+                                    <th> BCA 1st semester </th>
+                                    <th> JRNRVU, Udaipur </th>
+                                    <th> BCA </th>
+                                    <th> 78% </th>
+                                    <th> 2023 </th>
+                                </tr>
+                                <tr>
+                                    <th> BCA 2nd semester </th>
+                                    <th> JRNRVU, Udaipur </th>
+                                    <th> BCA </th>
+                                    <th> 77% </th>
+                                    <th> 2023 </th>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p> *Persuing BCA from Janardan Rai Nagar Rajasthan Vidyapeeth. </p>
+                        <hr>
+                        <h2> <u> COMPUTER PROFICIENCY </u> </h2>
+                        <ul>
+                            <li> Having knowledge of C and C++. </li>
+                            <li> Having knowledge of HTML </li>
+                            <li> Having knowledge of DBMS </li>
+                        </ul>
+                        <hr>
+                        <h2> <u> HOBBIES </u> </h2>
+                        <ul>
+                            <li> Painting </li>
+                            <li> Sketching </li>
+                            <li> Collecting Coins </li>
+                        </ul>
+                        <hr>
+                        <h2> <u> PERSONAL INFORMATION </u> </h2>
+                        Father's Name - Moiz hussain ogna <br>
+                        Mother's Name - Ajab ogna <br>
+                        Date of Birth - June 26, 2004 <br>
+                        Nationality - Indian <br>
+                        Marital Status - Single <br>
+                        Religion - Muslim <br>
+                        Languages Known - Hindi, English <br>
+                        <hr>
+                        Date - April 19, 2024 <br>
+                        Place - Udaipur <br>
+                        <h3 text="" align="right"> Khadija Ogna </h3>
+                        <hr>
+
+                    </center>
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
